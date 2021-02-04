@@ -18,6 +18,7 @@ http://bt.popgo.net:7456/announce
 http://bt.pusacg.org:8080/announce
 http://bt.sc-ol.com:2710/announce
 http://bt.wiiyi.com:6969/announce
+http://bt1.the9.com:6969/announce
 http://bt2.careland.com.cn:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
@@ -102,6 +103,7 @@ http://tracker.nyap2p.com:8080/announce
 http://tracker.open-tracker.org:1337/announce
 http://tracker.port443.xyz:6969/announce
 http://tracker.publicbt.com:80/announce
+http://tracker.publictorrent.net:80/announce
 http://tracker.saiyaman.info:7979/announce
 http://tracker.skyts.cc:6969/announce
 http://tracker.skyts.cn:6969/announce
@@ -122,7 +124,6 @@ http://tracker01.loveapp.com:6789/announce
 http://tracker1.wasabii.com.tw:6969/announce
 http://tracker114514.top:11450/announce
 http://tracker2.wasabii.com.tw:6969/announce
-http://tracker3.itzmx.com:6961/announce
 http://tracker6.emce.org:12345/announce
 http://tracker810.xyz:11450/announce
 http://vps02.net.orel.ru:80/announce
@@ -226,7 +227,6 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:2710/announce
 udp://tracker.casual.run:6969/announce
-udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.ds.is:6969/announce
@@ -268,8 +268,10 @@ udp://tracker02.yowe.net:8080/announce
 udp://tracker1.absentmusing.com:8000/announce
 udp://tracker123.cn:8080/announce
 udp://tracker2.indowebster.com:6969/announce
+udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker6.dler.org:2710/announce
+udp://tsundere.pw:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://usa-tracker.zooki.xyz:6969/announce
 udp://uskr.m3x.org:6969/announce
@@ -277,7 +279,6 @@ udp://v-192-223-24-180.unman-vds.inap-nyc.nfoservers.com:6969/announce
 udp://wambo.club:1337/announce
 udp://webmail.wookiespmc.com:6969/announce
 udp://z.mercax.com:53/announce
-udp://zephir.monocul.us:6969/announce
 udp://zer0day.to:1337/announce
 ws://tracker.btsync.cf:6969/announce
 wss://ltrackr.iamhansen.xyz:443/announce
